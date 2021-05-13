@@ -370,5 +370,10 @@ footer span{
     .container{
         width:90% !important;
     }
+    .slider-part .carousel-inner p ,.carousel-item  p{
+        max-width:100%;}
+        h1{
+            font-size: 2rem !important;
+        }
 
 }
